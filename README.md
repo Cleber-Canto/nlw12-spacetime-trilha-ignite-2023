@@ -106,7 +106,6 @@ Indisponível.
 
 - [`Trilha IGNITE`](https://www.figma.com/community/file/1240070456276424762)
 
-- [`Trilha DISCOVER`](https://www.figma.com/community/file/1240071097028170811)
 
 É necessário ter conta no [Figma](https://figma.com) para acessar os layouts.
 
@@ -175,11 +174,3 @@ $ npx expo login
 # ao confirmar seu nome e senha, o terminal deverá mostrar o nome do usuário:
 $ npx expo whoami
 ```
-
-## Licença
-
-Esse projeto está registrado sob a licença MIT.
-
----
-
-Feito com ❤️ by Marcel Kaled
